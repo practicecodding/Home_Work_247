@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HomeWork2471" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.HomeWork2471" parent="Base.Theme.HomeWork2471" />
+
+    <style name="HomeWork214.1.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#673AB7</item>
+    </style>
+
+    <style name="HomeWork214.2.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#9C27B0</item>
+    </style>
+
+    <style name="HomeWork214.3.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#00BCD4</item>
+    </style>
+
+    <style name="HomeWork214.4.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#00BCD4</item>
+    </style>
+
+    <style name="HomeWork232.1.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#512888</item>
+    </style>
+
+    <style name="HomeWork232.2.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#009688</item>
+    </style>
+
+    <style name="HomeWork232.3.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#8BC34A</item>
+    </style>
+
+</resources>
