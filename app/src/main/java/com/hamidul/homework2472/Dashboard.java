@@ -28,12 +28,19 @@ public class Dashboard extends AppCompatActivity {
 
         gridView = findViewById(R.id.gridView);
 
+        SongList.MainList=new ArrayList<>();
         SongList.Album();
+        SongList.A=new ArrayList<>();
         SongList.A();
+        SongList.B=new ArrayList<>();
         SongList.B();
+        SongList.C=new ArrayList<>();
         SongList.C();
+        SongList.D=new ArrayList<>();
         SongList.D();
+        SongList.E=new ArrayList<>();
         SongList.E();
+        SongList.F=new ArrayList<>();
         SongList.F();
 
         MyAdapter myAdapter = new MyAdapter();

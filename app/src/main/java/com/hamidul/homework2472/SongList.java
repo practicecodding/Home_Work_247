@@ -58,8 +58,6 @@ public class SongList extends AppCompatActivity {
         MyAdapter myAdapter = new MyAdapter();
         gridView.setAdapter(myAdapter);
 
-
-
     }
 
     private class MyAdapter extends BaseAdapter{
